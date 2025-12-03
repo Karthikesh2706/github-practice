@@ -1,0 +1,21 @@
+{
+  "name": "sample-folder",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Karthikesh2706/github-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Karthikesh2706/github-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthikesh2706/github-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.js",
+    "test":"node test.js"
+  }
+}
